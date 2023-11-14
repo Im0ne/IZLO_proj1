@@ -1,0 +1,57 @@
+Zakladní testy:
+  ../tests/sat/chain01.in: OK
+  ../tests/sat/chain04.in: OK
+  ../tests/sat/chain08.in: OK
+  ../tests/sat/chain16.in: OK
+  ../tests/sat/no_prerequisity_01x01.in: OK
+  ../tests/sat/no_prerequisity_01x10.in: OK
+  ../tests/sat/no_prerequisity_10x01.in: OK
+  ../tests/sat/no_prerequisity_10x10.in: OK
+  ../tests/sat/no_prerequisity_99x99.in: OK
+  ../tests/sat/parallel_chains_01x02.in: OK
+  ../tests/sat/parallel_chains_01x04.in: OK
+  ../tests/sat/parallel_chains_01x16.in: OK
+  ../tests/sat/parallel_chains_04x02.in: OK
+  ../tests/sat/parallel_chains_04x04.in: OK
+  ../tests/sat/parallel_chains_08x02.in: OK
+  ../tests/unsat/cycle01.in: OK
+  ../tests/unsat/cycle02.in: OK
+  ../tests/unsat/cycle04.in: OK
+  ../tests/unsat/cycle16.in: OK
+  ../tests/unsat/too_long_chain01.in: OK
+  ../tests/unsat/too_long_chain02.in: OK
+  ../tests/unsat/too_long_chain04.in: OK
+  ../tests/unsat/too_long_chain16.in: OK
+
+Body: 4.0 (max 4)
+====================================================================
+
+Testy ekvivalence:
+  ../tests/sat/chain01.in: OK
+  ../tests/sat/chain04.in: OK
+  ../tests/sat/chain08.in: OK
+  ../tests/sat/chain16.in: OK
+  ../tests/sat/no_prerequisity_01x01.in: OK
+  ../tests/sat/no_prerequisity_01x10.in: OK
+  ../tests/sat/no_prerequisity_10x01.in: OK
+  ../tests/sat/no_prerequisity_10x10.in: OK
+  ../tests/sat/no_prerequisity_99x99.in: OK
+  ../tests/sat/parallel_chains_01x02.in: OK
+  ../tests/sat/parallel_chains_01x04.in: OK
+  ../tests/sat/parallel_chains_01x16.in: OK
+  ../tests/sat/parallel_chains_04x02.in: OK
+  ../tests/sat/parallel_chains_04x04.in: OK
+  ../tests/sat/parallel_chains_08x02.in: OK
+  ../tests/unsat/cycle01.in: OK
+  ../tests/unsat/cycle02.in: OK
+  ../tests/unsat/cycle04.in: OK
+  ../tests/unsat/cycle16.in: OK
+  ../tests/unsat/too_long_chain01.in: OK
+  ../tests/unsat/too_long_chain02.in: OK
+  ../tests/unsat/too_long_chain04.in: OK
+  ../tests/unsat/too_long_chain16.in: OK
+
+Body: 6.0 (max 6)
+====================================================================
+
+Body: 10.0
